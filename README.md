@@ -6,6 +6,6 @@ An easy accessible, **contextualized** Debug menu, accessible by **shake gesture
 - Actions can be simple buttons or have a toggle button behavior.
 - DebugMenu displays global actions wherever you are in your app, but is also intended to be extented by adding contextualized actions simply by making you ViewController conform to **DebugMenuContextualizedDataSource**. Contextualized actions appears at the begining of actions list.
 
-
+![Demo](https://github.com/AbsolutRenal/DebugMenu/blob/master/DebugMenu320.gif)
 --
 Icon from [FlatIcon](https://www.flaticon.com/)
